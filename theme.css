@@ -534,6 +534,10 @@ div.cm-fold-indicator
   padding-right: 4px;
   right: 0;
 }
+span.cm-foldPlaceholder
+{
+  display:none;
+}
 
 
 /* +++ STYLE SETTINGS by @mgmeyers */
