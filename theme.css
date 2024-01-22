@@ -524,15 +524,15 @@ div.todo-item-view-toolbar-item.active svg {
   fill: var(--text-accent);
 }
 
-/* fixes for the folding icon by @JeFawk */
+/* fixes for the folding icon */
 div.cm-fold-indicator
 {
-  margin-right: 14px;
+  margin-right: 0;
 }
 .markdown-source-view.mod-cm6 .cm-fold-indicator .collapse-indicator
 {
-  padding-right: 1rem;
-  right: -1.25rem;
+  padding-right: 4px;
+  right: 0;
 }
 
 
